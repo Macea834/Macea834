@@ -1,6 +1,6 @@
-README de perfil de GitHub para Luuisa Macea
+README de perfil de GitHub para Luis Macea
 
-# Hola, soy Luuisa Macea 👋
+# Hola, soy Luis Santiago Macea Delgado👋
 
 Estudiante de Ingeniería de Software en SENA Colombia.
 Construyo aplicaciones web y backend con enfoque en código limpio y buenas prácticas.
