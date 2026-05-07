@@ -41,3 +41,6 @@ Construyo aplicaciones web y backend con enfoque en código limpio y buenas prá
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maceal83@gmail.com)
+
+
+![Snake](https://raw.githubusercontent.com/Macea834/Macea834/output/github-contribution-grid-snake-dark.svg)
